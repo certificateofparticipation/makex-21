@@ -11,3 +11,5 @@ Instructions:
 1. Press the button to start the program
 2. In 10 second intervals, orange/green will rapidly flash, signifying that orange/green users are to collect their medicine now.
 3. Scan either 2(14) orange or 3(15) green to receive your medicine on the smart camera.
+
+Team: @mehhikr, @pendragonscode
